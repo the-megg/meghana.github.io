@@ -24,11 +24,13 @@ I like reading papers that focus on Efficient ML deployment and Medical AI.
 ---
 
 ## 📚 Explore My Work
-[**Detailed CV**](cv.md) – A deep dive into my professional journey and publications.
+[**Detailed CV**](cv.md) – A deep dive into my professional background.
 
-[**Projects**](projects.md) – Ongoing work in ADAS and completed Medical AI research.
-[**Blogs**](blogs.md) – My thoughts on model optimization and signal processing.
-[**Courses**](courses.md) – The academic foundations of my engineering approach.
+[**Projects**](projects.md) – Ongoing and cool projects I got a chance to work on.
+
+[**Blogs**](blogs.md) – My blogs on all things i find interesting.
+
+[**Courses**](courses.md) – Academic courses I thoroughly enjoyed and shaped my interests.
 
 ---
 [LinkedIn](https://linkedin.com/in/meghana) | [Email](mailto:meghanamanvit@gmail.com) | [GitHub](https://github.com/yourusername)
