@@ -1,10 +1,5 @@
 
----
-layout: default
-header-includes:
-  - <link rel="icon" type="image/x-icon" href="/favicon.ico?v=2">
----
-
+<link rel="icon" type="image/x-icon" href="/favicon.ico?v=2">
 # Meghana Manvitha Venna
 ### Machine Learning Engineer | Embedded Systems & Biomedical AI
 I am a Machine Learning Engineer at **Valeo R&D** specializing in the optimization and deployment of deep learning models on resource-constrained hardware. My work focuses on making AI efficient, real-time, and reliable for safety-critical applications like **Automotive ADAS**
