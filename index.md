@@ -33,4 +33,4 @@ I like reading papers that focus on Efficient ML deployment and Medical AI.
 [**Courses**](courses.md) – Academic courses I thoroughly enjoyed and shaped my interests.
 
 ---
-[LinkedIn](https://linkedin.com/in/meghana) | [Email](mailto:meghanamanvit@gmail.com) | [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/meghana-manvitha-venna-b21200220) | [Email](mailto:meghanamanvit@gmail.com) | [GitHub](https://github.com/the-megg)
