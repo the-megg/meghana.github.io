@@ -7,7 +7,7 @@ I am a Machine Learning Engineer at **Valeo R&D** specializing in the optimizati
 ## 🚀 What I’m Doing Currently
 
 
-I am currenlty working on deploying Deep learning based automated parking features in BMW cars, deployed into the Qualcomm snapdragong chips.
+I am currenlty working on deploying Deep learning based automated parking features in BMW cars, deployed into the Qualcomm snapdragon Ride platform.
 I also worked with Texas Instruments HW chipsets like Jacinto and Sitara. 
 I like reading papers that focus on Efficient ML deployment and Medical AI. 
 
@@ -17,9 +17,9 @@ I like reading papers that focus on Efficient ML deployment and Medical AI.
 
 | Category | Skills |
 | :--- | :--- |
-| **Frameworks** PyTorch, ONNX, AIMET, OpenVINO, TensorFlow |
-| **Hardware** Texas Instruments, Qualcomm Snapdragon Ride, Horizon SDK|
-| **Specialties** Quantization, Pruning, SIL/HIL Testing, Acoustic Pattern Recognition |
+| **Frameworks** | PyTorch, ONNX, AIMET, OpenVINO, TensorFlow |
+| **Hardware**  | Texas Instruments, Qualcomm Snapdragon Ride, Horizon SDK|
+| **Specialties** | Quantization, Pruning, SIL/HIL Testing, Acoustic Pattern Recognition |
 
 ---
 
