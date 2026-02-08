@@ -9,3 +9,5 @@
 - [ ] Implement a Graph Convolutional Network (GCN) on brain connectivity data. The GCN target is to predict Alzheimers progression from functional connectivity matrices, that it. 
 - [ ] Do Andrej's LLM tutorial
 - [ ] Finish AI for medical diagnosis
+
+( edited on 8-Feb-2026)
