@@ -1,15 +1,15 @@
 # Meghana Manvitha Venna
 ### Machine Learning Engineer | Embedded Systems & Biomedical AI
-I am a Machine Learning Engineer at **Valeo R&D** specializing in the optimization and deployment of deep learning models on resource-constrained hardware My work focuses on making AI efficient, real-time, and reliable for safety-critical applications like **Automotive ADAS** and **Medical Diagnostics**
+I am a Machine Learning Engineer at **Valeo R&D** specializing in the optimization and deployment of deep learning models on resource-constrained hardware. My work focuses on making AI efficient, real-time, and reliable for safety-critical applications like **Automotive ADAS**
 
 ---
 
 ## 🚀 What I’m Doing Currently
 
-**Embedded Deployment:** Leading the continuous deployment pipeline for **Honda ARAS** (Advanced Rider Assist System)
-**Model Optimization:** Achieving **40% model compression** with 90% accuracy retention using FP32 to INT8 quantization
-**Real-time Performance:** Delivering **26 FPS** on Texas Instruments embedded hardware through multi-task learning
-**Medical Research:** Developing attention-driven adaptation of **MedSAM** for Ovarian Tumor segmentation
+
+I am currenlty working on deploying Deep learning based automated parking features in BMW cars, deployed into the Qualcomm snapdragong chips.
+I also worked with Texas Instruments HW chipsets like Jacinto and Sitara. 
+I like reading papers that focus on Efficient ML deployment and Medical AI. 
 
 ---
 
