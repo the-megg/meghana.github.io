@@ -25,6 +25,7 @@ I like reading papers that focus on Efficient ML deployment and Medical AI.
 
 ## 📚 Explore My Work
 [**Detailed CV**](cv.md) – A deep dive into my professional journey and publications.
+
 [**Projects**](projects.md) – Ongoing work in ADAS and completed Medical AI research.
 [**Blogs**](blogs.md) – My thoughts on model optimization and signal processing.
 [**Courses**](courses.md) – The academic foundations of my engineering approach.
