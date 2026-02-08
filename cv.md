@@ -1,5 +1,5 @@
 ## Education
-**B.Tech in Computer Science**, IIIT Chennai (GPA: 8.7/10) 
+**B.Tech in Computer Science**, IIIT Chennai (GPA: 8.7/10) <br>
 **FIITJEE Junior College**, Andhra Pradesh (GPA: 9.94/10)
 
 ## Technical Expertise
